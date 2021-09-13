@@ -1,6 +1,8 @@
 # IMAGE-SUPER-RESOLUTION
 An image super-resolution convolutional neural network model to enhance image quality.
 
+<b>The trained model showed great results achieving a very high PSNR value (performance metric to evaluate the image quality) of 39 which is better than the traditional methods.</b>
+
 Single image super-resolution (SR), which aims at recovering a high-resolution image from a single low-resolution image, is a classical problem in computer vision.
 We consider a convolutional neural network that directly learns an end-to-end mapping between low- and high-resolution images. <br /> 
 The network directly learns an end-to-end mapping between low and high-resolutionimages, with little pre/postprocessing beyond the optimization. 
